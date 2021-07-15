@@ -1,6 +1,7 @@
 # app-masters-super-hero
 
-API desenvolvida para consultar heróis para o [App Masters]: https://appmasters.io/pt/ 
+API desenvolvida para consultar heróis para o 
+[App Masters]: https://appmasters.io/pt/ 
 
 
 # Instalar e executar o código
